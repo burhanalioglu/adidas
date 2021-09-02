@@ -10,7 +10,7 @@ Feature: Laptop Purchase feature
     Then The user should be on "<product name>" detail page
     Examples:
       | product name |
-      | Sony vaio ii5 |
+      | Sony vaio i5 |
       | Dell i7 8gb  |
 
   Scenario: Add product to cart and delete
